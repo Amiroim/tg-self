@@ -1,1 +1,1 @@
-# tg-self
+pyrogram-based telegram client bot
